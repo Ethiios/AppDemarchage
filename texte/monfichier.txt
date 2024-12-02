@@ -1,0 +1,4 @@
+Model.BonDeCommande{numero=1, montant=1354.0, description='hbsphnvops', date=Sun Dec 01 18:15:36 CET 2024, dateEnregistrement=Thu Dec 12 00:00:00 CET 2024, Model.Reglement{libelle='Virement'}, Model.Commercial{identifiant=5, nom='Dubalais', prenom='Jean-Heude'}, Model.Statut{Vente en Cours}
+Model.Client{nom='ebv', prenom='efssf', idClient=6
+Model.Adresse{numero='fd', rue='efzv', ville='efcvs', codePostal=56400}}
+}
